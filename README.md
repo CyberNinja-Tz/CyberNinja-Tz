@@ -1,5 +1,5 @@
 
-### Hi, I'm Cyber Ninja 🇹🇿
+### Hi, I'm @Cyber Ninja 🥷 🇹🇿
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDdyc2Z6bzVna3VtODJ5bHE1d21ndjQza3VkM21wYXFnZmxpYmo2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i1zNFnz0skz4s/giphy.gif" alt="Hacker GIF" width="200"/>
 
 # 🔴 Red Team Operative | Ethical Hacker | Cyber Security
