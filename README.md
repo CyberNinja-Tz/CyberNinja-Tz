@@ -30,3 +30,5 @@
 🔗 * https://www.linkedin.com/in/cyber-ninja-3a8534399/
 
 🅾 * https://www.instagram.com/cyberninja200/
+
+🔗 * https://www.youtube.com/@nobodyerror-q7w2n
