@@ -22,7 +22,7 @@
 ---
 
 ### 🔥Recent Achievements :
-- I have my own Ninja MITM tool. This tool performs a man-in-the-middle hacking attack.
+- I have my own Ninja Tools. For Hackers and penetration Tester.
 - I have helped the community protect themselves online and fight hackers.
 
 **💬 Let's unite?**
