@@ -16,7 +16,8 @@
                                   🎭Silent mode,Always ON 🥷  
 
 
-### **Bro Remember: The wall is not there to stop you, it is there to show you how much you want the victory on the other side.** 
+### **Bro Remember:** 
+**</Security is not there to stop you, but to show you how much you want the other side to win..>** 
   
 
 
@@ -26,7 +27,6 @@
 
 **I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
 
-**I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
 
 ---
 
