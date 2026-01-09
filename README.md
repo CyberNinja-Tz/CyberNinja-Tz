@@ -25,7 +25,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&width=600&lines=Red+Team+Operative++|+Developer+of+hacking+tools;Ethical+Hacker++|+Penetration+Tester;Cyber+Security++|+Log+Analysis;Offensive+Security++|+Cyber+Ninja" alt="Cyber Ninja Typing" />
 </a>
 
-**I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
+**I am in Tanzania. I Secure Systems by Breaking Them First..**
 
 
 ---
@@ -39,7 +39,7 @@
 ### 🛠️ Tech Stack:
 | Language | Tools | Operating Systems |
 | :---: | :---: | :---: |
-| Python, Bash, | Metasploit, Nmap, Burp Suite, Wifite ,Sqlmap , Wpscan ,John the Ripper ,Hashcat ,Hydra ,Wireshark | Kali Linux, Windows Server, |
+| Python, Bash, | Metasploit, Nmap, Burp Suite, Wifite ,Sqlmap , Wpscan ,John the Ripper ,Hashcat ,Hydra ,Wireshark | Kali Linux, Windows Server,Mac OS |
 
 ---
 
@@ -48,19 +48,18 @@
 - I have helped the community protect themselves online and fight hackers.
 - I provide guidance and support to companies, institutions, and individuals regarding the vulnerabilities of their systems.
 - I have also helped many people in remote work to solve their system problems.
-- For contact for work or advice on cyber security, whatsaap number = + 255762223306
 - You are welcome, I am online 24 hours a day.
 
   ---
   ✅ **My Certificate**
   
-  1 -->  https://courses.redteamleaders.com/completion/34946a8f387eee39
+  1 --> ✅ https://courses.redteamleaders.com/completion/34946a8f387eee39
   
-  2 -->  https://courses.redteamleaders.com/completion/97e9f58e53406a9e
+  2 --> ✅ https://courses.redteamleaders.com/completion/97e9f58e53406a9e
 
-  3 -->  https://courses.redteamleaders.com/completion/a0b43a9f991d6930
+  3 --> ✅ https://courses.redteamleaders.com/completion/a0b43a9f991d6930
   
-  3 --> SISCO and More...
+  3 --> ✅ SISCO and More...
 
 **💬 Let's unite?**
 
