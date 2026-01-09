@@ -2,7 +2,15 @@
 ### Hi, I'm @Cyber Ninja 🥷 🇹🇿
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="200"/>
 
-# 🔴 Red Team Operative| Ethical Hacker| Cyber Security| Offensive Security| Developer of hacking tools| Penetration Tester
+| **Red Team Operative**   .............................  | **Developer of hacking tools**
+
+| **Ethical Hacker**     ..............................   | **Penetration Tester**
+
+| **Cyber Security**    ..............................   |  **Log Analysis**
+
+| **Offensive Security**  ..............................   |  **Cyber Ninja**
+
+
 
 **I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
 
