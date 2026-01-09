@@ -2,15 +2,29 @@
 ### Hi, I'm @Cyber Ninja 🥷 🇹🇿
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="200"/>
 
-| **Red Team Operative**   .............................  | **Developer of hacking tools**
+| **Red Team Operative**   **.............................**   | **Developer of hacking tools**
 
-| **Ethical Hacker**     ..............................   | **Penetration Tester**
+| **Ethical Hacker**     **.......................................**    | **Penetration Tester**
 
-| **Cyber Security**    ..............................   |  **Log Analysis**
+| **Cyber Security**    **.......................................**     |  **Log Analysis**
 
-| **Offensive Security**  ..............................   |  **Cyber Ninja**
+| **Offensive Security**  **.................................**   |  **Cyber Ninja**
+
+                                          
+                                    
+                                   
+                                  🎭Silent mode,Always ON 🥷  
 
 
+### **Bro Remember: The wall is not there to stop you, it is there to show you how much you want the victory on the other side.** 
+  
+
+
+<a href="https://github.com/denvercoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&width=600&lines=Red+Team+Operative++|+Developer+of+hacking+tools;Ethical+Hacker++|+Penetration+Tester;Cyber+Security++|+Log+Analysis;Offensive+Security++|+Cyber+Ninja" alt="Cyber Ninja Typing" />
+</a>
+
+**I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
 
 **I am in Arusha, Tanzania. I Secure Systems by Breaking Them First..**
 
