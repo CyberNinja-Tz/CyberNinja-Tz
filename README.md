@@ -29,6 +29,17 @@
 - For contact for work or advice on cyber security, whatsaap number = + 255762223306
 - You are welcome, I am online 24 hours a day.
 
+  ---
+  ✅ **My Certificate**
+  
+  1 -->  https://courses.redteamleaders.com/completion/34946a8f387eee39
+  
+  2 -->  https://courses.redteamleaders.com/completion/97e9f58e53406a9e
+
+  3 -->  https://courses.redteamleaders.com/completion/a0b43a9f991d6930
+  
+  3 --> SISCO and More...
+
 **💬 Let's unite?**
 
 🔗 * https://www.linkedin.com/in/cyber-ninja-3a8534399/
