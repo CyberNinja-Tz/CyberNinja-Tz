@@ -17,7 +17,7 @@
 
 
 ### **Bro Remember:** 
-**</Security is not there to stop you, but to show you how much you want the other side to win..>** 
+**🫵  </Security is not there to stop you, but to show you how much you want the other side to win..>** 
   
 
 
