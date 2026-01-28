@@ -6,7 +6,7 @@
 
 | **Ethical Hacker**     **.......................................**    | **Penetration Tester**
 
-| **Cyber Security**    **.......................................**     |  **Log Analysis**
+| **Cyber Security**    **.......................................**     |  **Bug Bounty**
 
 | **Offensive Security**  **.................................**   |  **Cyber Ninja**
 
