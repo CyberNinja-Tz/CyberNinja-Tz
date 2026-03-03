@@ -12,10 +12,6 @@
 
 | **Bug Bounty**
 
-| **Cyber Ninja**
-
-| **Cyber Security**
-
 | **Offensive Security**
                                           
                                     
@@ -58,19 +54,7 @@
 - You are welcome, I am online 24 hours a day.
 
   ---
-  ✅ **My Certificate**
-  
-  1 --> ✅ https://courses.redteamleaders.com/completion/34946a8f387eee39
-  
-  2 --> ✅ https://courses.redteamleaders.com/completion/97e9f58e53406a9e
 
-  3 --> ✅ https://courses.redteamleaders.com/completion/a0b43a9f991d6930
-
-  4 --> ✅ https://courses.redteamleaders.com/completion/d014373fd0a589b9
-
-  5 --> ✅ https://courses.redteamleaders.com/completion/ae6f18972ba40a52
-  
-  3 --> ✅ SISCO and More...
 
 **💬 Let's unite?**
 
