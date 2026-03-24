@@ -31,7 +31,7 @@
 ### 🚀 My niche:
 - 🛡️ **Offensive Security** & Adversary Simulation
 - 🔥 Penetration Testing (Web, Network, API)
-- 🐍Development of hacking tools using  **Python**
+- 🐍Development of hacking tools using  **Python**/**Bash**
 - ⚙️ Windows & Linux Privilege Escalation
 
 ### 🛠️ Tech Stack:
@@ -42,12 +42,11 @@
 ---
 
 ### 🔥Recent Achievements :
-- I have my own Ninja Tools. For Hackers and penetration Tester.
-- I have helped the community protect themselves online and fight hackers.
-- I provide guidance and support to companies, institutions, and individuals regarding the vulnerabilities of their systems.
-- I have also helped many people in remote work to solve their system problems.
-- You are welcome, I am online 24 hours a day.
-
+- >I have my own Ninja Tools. For Hackers and penetration Tester.
+- >I have helped the community protect themselves online and fight hackers.
+- >I provide guidance and support to companies, institutions, and individuals regarding the vulnerabilities of their systems.
+- >I have also helped many people in remote work to solve their system problems.
+- >You are welcome, I am online 24 hours a day.
   ---
 
 <div align="center">
@@ -63,4 +62,4 @@
 
 ---
 
-#                                   Happy Hacking 🥷
+*Happy Hacking 🥷*
