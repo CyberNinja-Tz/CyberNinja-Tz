@@ -1,10 +1,12 @@
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="200"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="180"/>
 
-<div align="center">
-  
-# Hi, I'm @Cyber Ninja 🥷 🇹🇿
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E+RED+TEAM+OPERATIVE+%3C%3C;%5B%2B%5D+PENETRATION+TESTER+%5B%2B%5D;SYSTEM+STATUS:+BREACHED+%F0%9F%94%A5;--+OFFENSIVE+SECURITY+--;DEVELOPER+OF+HACKING+TOOLS;%F0%9F%83%AD+SILENT+MODE:+ALWAYS+ON)
+<div align="left">
+
+**Hi, I'm @Cyber Ninja 🥷 🇹🇿**
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF41&width=450&lines=%3E%3E+RED+TEAM+OPERATIVE+%3C%3C;%5B%2B%5D+PENETRATION+TESTER+%5B%2B%5D;SYSTEM+STATUS:+BREACHED+%F0%9F%94%A5;--+OFFENSIVE+SECURITY+--;DEVELOPER+OF+HACKING+TOOLS;%F0%9F%83%AD+SILENT+MODE:+ALWAYS+ON" alt="Typing SVG" />
+
 </div>
 
 ---
