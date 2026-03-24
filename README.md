@@ -1,35 +1,33 @@
 
-### Hi, I'm @Cyber Ninja 🥷 🇹🇿
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="200"/>
 
-| **Red Team Operative**
+<div align="center">
 
-| **Ethical Hacker**
+# Hi, I'm @Cyber Ninja 🥷 🇹🇿
 
-| **Developer of hacking tools**
-
-| **Penetration Tester**
-
-| **Bug Bounty**
-
-| **Offensive Security**
-                                          
-                                    
-                                   
-                                  🎭Silent mode,Always ON 🥷  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E%3E+RED+TEAM+OPERATIVE+%3C%3C;%5B%2B%5D+PENETRATION+TESTER+%5B%2B%5D;SYSTEM+STATUS:+BREACHED+%F0%9F%94%A5;--+OFFENSIVE+SECURITY+--;DEVELOPER+OF+HACKING+TOOLS;%F0%9F%83%AD+SILENT+MODE:+ALWAYS+ON)
 
 
-### **Bro Remember:** 
-**🫵  </Security is not there to stop you, but to show you how much you want the other side to win..>** 
-  
+</div>
 
+---
 
-<a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&width=600&lines=Red+Team+Operative++|+Developer+of+hacking+tools;Ethical+Hacker++|+Penetration+Tester;Cyber+Security++|+Log+Analysis;Offensive+Security++|+Cyber+Ninja" alt="Cyber Ninja Typing" />
-</a>
+```bash
+# 🧠 Whoami
+# -------------------------------------------------------------------
+# 01: RED TEAM OPERATIVE | 04: PENETRATION TESTER
+# 02: BUG BOUNTY         | 05: ETHICAL HACKER
+# 03: OFFENSIVE+SECURITY | 06: TOOLS DEVELOPER
+# -------------------------------------------------------------------
+# 🎭 Silent mode, Always ON 🥷
+```
+👊 Bro Remember:
+
+*</Security is not there to stop you, but to show you how much you want the other side to win..>*
+
+---
 
 **I am in Tanzania. I Secure Systems by Breaking Them First..**
-
 
 ---
 
@@ -55,15 +53,17 @@
 
   ---
 
+<div align="center">
 
-**💬 Let's unite?**
+### 💬 Connect with me
 
-🔗  Linkedin >>> * https://www.linkedin.com/in/cyber-ninja-3a8534399/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyber-ninja-3a8534399/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyberninja200/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nobodyerror-q7w2n)
+[![Website](https://img.shields.io/badge/My_Website-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cyberninja255.vercel.app/)
 
-🅾  Instagram >>> * https://www.instagram.com/cyberninja200/
+</div>
 
-🔗  Youtube  >>> * https://www.youtube.com/@nobodyerror-q7w2n
-
- My Website  >>> **https://cyberninja255.vercel.app/**
+---
 
 #                                   Happy Hacking 🥷
