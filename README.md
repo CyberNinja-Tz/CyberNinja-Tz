@@ -13,8 +13,9 @@
 # 🧠 Whoami
 # -------------------------------------------------------------------
 # 01: RED TEAM OPERATIVE | 04: PENETRATION TESTER
-# 02: BUG BOUNTY         | 05: ETHICAL HACKER
-# 03: OFFENSIVE+SECURITY | 06: TOOLS DEVELOPER
+# 02: BUG BOUNTY         | 05: INCIDENT RESPONDER
+# 03: SOCIAL ENGINEER    | 06: SOC ANALYST
+
 # -------------------------------------------------------------------
 # 🎭 Silent mode, Always ON 🥷
 ```
