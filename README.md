@@ -38,7 +38,7 @@
 ### 🛠️ Tech Stack:
 | Language | Tools | Operating Systems |
 | :---: | :---: | :---: |
-| Python, Shell, | Metasploit, Nmap, Burp Suite, Wifite ,Sqlmap , Wpscan ,John the Ripper ,Hashcat ,Hydra ,Wireshark | Kali Linux, Windows Server,Mac OS |
+| Python, Shell, C++ | Metasploit, Nmap, Burp Suite, Wifite ,Sqlmap , Wpscan ,John the Ripper ,Hashcat ,Hydra ,Wireshark ,Nessus ,Acunetix| Kali Linux, Windows Server,Mac OS |
 
 ---
 
