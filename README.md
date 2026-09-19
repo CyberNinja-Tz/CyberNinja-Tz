@@ -1,66 +1,112 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Cyber+Ninja;Offensive+Security;Pentester;Bug+Bounty;Cyber+Security+Mentor" />
+</p>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azB2bG1wazZneGVhaXlhdzJ2M2x6dGRsdWU5anVtcHFxMHN4dzc3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dCBZtA2iuNqZW/giphy.gif" alt="Hacker GIF" width="180"/>
+<h1 align="center">🥷 Cyber Ninja</h1>
+<h3 align="center">Offensive Security • Hacker • Pentester • Bug Bounty • Social Engineer</h3>
 
-<div align="left">
-
-**Hi, I'm @Cyber Ninja 🥷 🇹🇿**
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF41&width=450&lines=%3E%3E+RED+TEAM+OPERATIVE+%3C%3C;%5B%2B%5D+PENETRATION+TESTER+%5B%2B%5D;SYSTEM+STATUS:+BREACHED+%F0%9F%94%A5;--+OFFENSIVE+SECURITY+--;DEVELOPER+OF+HACKING+TOOLS;%F0%9F%83%AD+SILENT+MODE:+ALWAYS+ON" alt="Typing SVG" />
-
-</div>
-
-```bash
-# 🧠 Whoami
-# -------------------------------------------------------------------
-# 01: RED TEAM OPERATIVE | 04: PENETRATION TESTER
-# 02: BUG BOUNTY         | 05: INCIDENT RESPONDER
-# 03: SOCIAL ENGINEER    | 06: SOC ANALYST
-
-# -------------------------------------------------------------------
-# 🎭 Silent mode, Always ON 🥷
-```
-👊 Bro Remember:
-
-*</Security is not there to stop you, but to show you how much you want the other side to win..>*
-
----
-
-**I am in Tanzania. I Secure Systems by Breaking Them First..**
-
----
-
-### 🚀 My niche:
-- 🛡️ **Offensive Security** & Adversary Simulation
-- 🔥 Penetration Testing (Web, Network, API)
-- 🐍Development of hacking tools using  **Python**/**Bash**
-- ⚙️ Windows & Linux Privilege Escalation
-
-### 🛠️ Tech Stack:
-| Language | Tools | Operating Systems |
-| :---: | :---: | :---: |
-| Python, Shell, C++ | Metasploit, Nmap, Burp Suite, Wifite ,Sqlmap , Wpscan ,John the Ripper ,Hashcat ,Hydra ,Wireshark ,Nessus ,Acunetix| Kali Linux, Windows Server,Mac OS |
-
----
-
-### 🔥Recent Achievements :
-- >I have my own Ninja Tools. For Hackers and penetration Tester.
-- >I have helped the community protect themselves online and fight hackers.
-- >I provide guidance and support to companies, institutions, and individuals regarding the vulnerabilities of their systems.
-- >I have also helped many people in remote work to solve their system problems.
-- >You are welcome, I am online 24 hours a day.
-  ---
+<p align="center">
+I explore systems, uncover weaknesses, and turn security knowledge into protection.
+</p>
 
 <div align="center">
-
-### 💬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyber-ninja-3a8534399/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyberninja200/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nobodyerror-q7w2n)
-[![Website](https://img.shields.io/badge/My_Website-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cyberninja255.vercel.app/)
-
+  <img src="https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Hacker-FF0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pentester-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-FFB300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Social_Engineer-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber_Security_Mentor-1E88E5?style=for-the-badge" />
 </div>
 
 ---
 
-*Happy Hacking 🥷*
+## 🧠 About Me
+
+<table>
+  <tr>
+    <td>
+      🔐 Offensive Security Specialist  <br>
+      💻 Hacker mindset focused on problem solving  <br>
+      🧪 Pentester with a passion for security research  <br>
+      🎯 Bug Bounty hunter exploring vulnerabilities  <br>
+      🕵️ Social engineer and security awareness advocate  <br>
+      🛡️ Cyber Security Mentor helping others grow  
+    </td>
+    <td align="center">
+      <img src="https://camo.githubusercontent.com/7321aa69fb9306a14bc5deb8cda463b8d4768a5b83f8dfa9e48b3c855d58f9ef/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b5057566a5a6a41315a545133617a423262473177617a5a6e6547566861586c68647a4a324d3278366447527364575535616e5674634846784d484e34647a633361695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6443425a74413269754e715a572f67697068792e676966" width="420" alt="Cyber Ninja animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🧰 Tech Stack
+
+## 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,arch,debian,mint,windows" />
+</p>
+
+---
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
+</p>
+
+---
+
+## ⚙️ Dev / DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,docker,github" />
+</p>
+
+---
+
+# 🔐 Cyber Security Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit" />
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite" />
+<img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
+<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge&logo=hashcat" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nuclei-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xray-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Caido-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/ZAP-0A0A0A?style=for-the-badge&logo=zaproxy" />
+<img src="https://img.shields.io/badge/Maltego-3A3A3A?style=for-the-badge&logo=maltego" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+
+<img src="https://streak-stats.demolab.com/?user=YogaRmdn&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# ⚡ Mindset
+
+> "Hack the system. Understand the system. Secure the system."
+
+---
