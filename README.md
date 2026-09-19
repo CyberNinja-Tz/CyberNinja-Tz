@@ -26,11 +26,11 @@ I explore systems, uncover weaknesses, and turn security knowledge into protecti
   <tr>
     <td>
       🔐 Offensive Security Specialist  <br>
-      💻 Hacker mindset focused on problem solving  <br>
-      🧪 Pentester with a passion for security research  <br>
-      🎯 Bug Bounty hunter exploring vulnerabilities  <br>
-      🕵️ Social engineer and security awareness advocate  <br>
-      🛡️ Cyber Security Mentor helping others grow  
+      💻 Hacker |   mindset focused on problem solving  <br>
+      🧪 Pentester |   with a passion for security research  <br>
+      🎯 Bug Bounty hunter |   exploring vulnerabilities  <br>
+      🕵️ Social engineer |   and security awareness advocate  <br>
+      🛡️ Cyber Security Mentor |   helping others grow  
     </td>
     <td align="center">
       <img src="https://camo.githubusercontent.com/7321aa69fb9306a14bc5deb8cda463b8d4768a5b83f8dfa9e48b3c855d58f9ef/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b5057566a5a6a41315a545133617a423262473177617a5a6e6547566861586c68647a4a324d3278366447527364575535616e5674634846784d484e34647a633361695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6443425a74413269754e715a572f67697068792e676966" width="420" alt="Cyber Ninja animation" />
